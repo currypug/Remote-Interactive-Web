@@ -459,7 +459,8 @@ function send(dict) {
   console.log("sending");
   console.log(dict);
   window.location.href = link;
-  window.location.href = "/Evidence";
+  window.location.href =
+    "https://currypug.github.io/Remote-Interactive-Web/#/Evidence";
 }
 
 function bfCondom(dict) {
