@@ -15,19 +15,16 @@ import Evidence from "./components/Evidence";
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter basename="/">
         <div>
-          <Navigation />
-          <Switch>
-            <Route path="/" component={Menu} exact />
-            <Route path="/Report" component={Report} />
-            <Route path="/Statements" component={Statements} />
-            <Route path="/CrimeScene" component={CrimeScene} />
-            <Route path="/Evidence" component={Evidence} />
-            <Route component={Error} />
-          </Switch>
+          <Route path="/" component={Menu} exact />
+          <Route path="/Report" component={Report} />
+          <Route path="/Statements" component={Statements} />
+          <Route path="/CrimeScene" component={CrimeScene} />
+          <Route path="/Evidence" component={Evidence} />
+          <Route component={Error} />
         </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
