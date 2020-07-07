@@ -764,7 +764,7 @@ const Contact = () => {
       <buttonStyleContainer>
         <ArrowToNextPage
           className="Next-Page"
-          href="/Evidence"
+          href="https://currypug.github.io/Remote-Interactive-Web/#/Evidence"
           target="_self"
           rel="noopener norefferer"
           onClick={send.bind(this, dict)}
