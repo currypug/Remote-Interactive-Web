@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfe73a641b232f53111bee5bc61b9af9",
+    "revision": "0cbc8a89f981ce687da837cabfb178c2",
     "url": "/Remote-Interactive-Web/index.html"
   },
   {
-    "revision": "4680d8d82f0b1f347e4b",
+    "revision": "30a9b1bcc69316b687fd",
     "url": "/Remote-Interactive-Web/static/css/main.91f2c822.chunk.css"
   },
   {
-    "revision": "9097459b5d559d60ddb6",
-    "url": "/Remote-Interactive-Web/static/js/2.223eb354.chunk.js"
+    "revision": "8d33d0636f92e0a8fcec",
+    "url": "/Remote-Interactive-Web/static/js/2.f2799180.chunk.js"
   },
   {
     "revision": "4ba1a1c11c57ed15aa68008707a3d6b4",
-    "url": "/Remote-Interactive-Web/static/js/2.223eb354.chunk.js.LICENSE.txt"
+    "url": "/Remote-Interactive-Web/static/js/2.f2799180.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4680d8d82f0b1f347e4b",
-    "url": "/Remote-Interactive-Web/static/js/main.69c7d9ca.chunk.js"
+    "revision": "30a9b1bcc69316b687fd",
+    "url": "/Remote-Interactive-Web/static/js/main.832eb703.chunk.js"
   },
   {
     "revision": "d7e049a91d196af0a891",

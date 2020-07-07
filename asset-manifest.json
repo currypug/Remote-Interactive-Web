@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Remote-Interactive-Web/static/css/main.91f2c822.chunk.css",
-    "main.js": "/Remote-Interactive-Web/static/js/main.69c7d9ca.chunk.js",
-    "main.js.map": "/Remote-Interactive-Web/static/js/main.69c7d9ca.chunk.js.map",
+    "main.js": "/Remote-Interactive-Web/static/js/main.832eb703.chunk.js",
+    "main.js.map": "/Remote-Interactive-Web/static/js/main.832eb703.chunk.js.map",
     "runtime-main.js": "/Remote-Interactive-Web/static/js/runtime-main.dbfa69de.js",
     "runtime-main.js.map": "/Remote-Interactive-Web/static/js/runtime-main.dbfa69de.js.map",
-    "static/js/2.223eb354.chunk.js": "/Remote-Interactive-Web/static/js/2.223eb354.chunk.js",
-    "static/js/2.223eb354.chunk.js.map": "/Remote-Interactive-Web/static/js/2.223eb354.chunk.js.map",
+    "static/js/2.f2799180.chunk.js": "/Remote-Interactive-Web/static/js/2.f2799180.chunk.js",
+    "static/js/2.f2799180.chunk.js.map": "/Remote-Interactive-Web/static/js/2.f2799180.chunk.js.map",
     "index.html": "/Remote-Interactive-Web/index.html",
-    "precache-manifest.5f89c207873db0a70557ffe14accf405.js": "/Remote-Interactive-Web/precache-manifest.5f89c207873db0a70557ffe14accf405.js",
+    "precache-manifest.87463d019c9544a412d2d44c093b3e45.js": "/Remote-Interactive-Web/precache-manifest.87463d019c9544a412d2d44c093b3e45.js",
     "service-worker.js": "/Remote-Interactive-Web/service-worker.js",
     "static/css/main.91f2c822.chunk.css.map": "/Remote-Interactive-Web/static/css/main.91f2c822.chunk.css.map",
-    "static/js/2.223eb354.chunk.js.LICENSE.txt": "/Remote-Interactive-Web/static/js/2.223eb354.chunk.js.LICENSE.txt",
+    "static/js/2.f2799180.chunk.js.LICENSE.txt": "/Remote-Interactive-Web/static/js/2.f2799180.chunk.js.LICENSE.txt",
     "static/media/Bedlight Button.png": "/Remote-Interactive-Web/static/media/Bedlight Button.4cdccdea.png",
     "static/media/Bedroom unopened condom button..png": "/Remote-Interactive-Web/static/media/Bedroom unopened condom button..24eca577.png",
     "static/media/Bloodstain button.png": "/Remote-Interactive-Web/static/media/Bloodstain button.ab325389.png",
@@ -42,8 +42,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dbfa69de.js",
-    "static/js/2.223eb354.chunk.js",
+    "static/js/2.f2799180.chunk.js",
     "static/css/main.91f2c822.chunk.css",
-    "static/js/main.69c7d9ca.chunk.js"
+    "static/js/main.832eb703.chunk.js"
   ]
 }
