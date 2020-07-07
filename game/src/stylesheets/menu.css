@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'DinoType';
+    src: 
+         url('../fonts/Dinotype-Demo.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: 'Cooper';
+    src: 
+         url('../fonts/CooperHewitt-Medium.otf') format('opentype');
+  }
+
+
+body {
+    background-color: #ffd9a4;
+    color:black
+}
+
+#GameTitle {
+    font-family:'DinoType';
+    width:55vw;
+    text-align: center;
+    display: inline-block;
+    padding-top:30vh;
+    vertical-align: top;
+    font-size:60px;
+}
+
+#InstructionTitle {
+    font-family:'DinoType';
+}
+
+#instructionParagraph {
+    font-family: "Cooper";
+}
+
+h1 {
+    font-family:'DinoType';
+    width:55vw;
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    font-size:60px;
+}
+
+p {
+    font-family: "Cooper";
+}
