@@ -94,7 +94,7 @@ const Menu = () => {
             <ButtonStyleContainer>
               <StudentChoice
                 className="App-link"
-                href="/Report"
+                href="https://currypug.github.io/Remote-Interactive-Web/"
                 target="_self"
                 rel="noopener noreferrer"
               >
@@ -102,7 +102,7 @@ const Menu = () => {
               </StudentChoice>
               <StudentChoice
                 className="App-link"
-                href="/Report"
+                href="https://currypug.github.io/Remote-Interactive-Web/"
                 target="_self"
                 rel="noopener noreferrer"
               >
